@@ -26,14 +26,22 @@ The overall workflow of the project is as follows:
 ![Workflow](https://github.com/Moses-Mk/Intel-Products-Sentiment-Analysis-from-Online-Reviews/blob/main/images/Workflow.png)
 
 ## Wordcloud
-We generate word clouds to visualize the most common words used in positive, negative, and neutral reviews.
+Word clouds are generated to visualize the most common words used in positive, neutral, and negative reviews.
 
-![Wordcloud](path/to/your/wordcloud_image.png)
+### Positive Reviews
+![Positive Wordcloud](https://github.com/Moses-Mk/Intel-Products-Sentiment-Analysis-from-Online-Reviews/blob/main/images/Positive%20Reviews.png)
+
+### Neutral Reviews
+![Neutral Wordcloud](https://github.com/Moses-Mk/Intel-Products-Sentiment-Analysis-from-Online-Reviews/blob/main/images/Neutral%20Reviews.png)
+
+### Negative Reviews
+![Negative Wordcloud](https://github.com/Moses-Mk/Intel-Products-Sentiment-Analysis-from-Online-Reviews/blob/main/images/Negative%20Reviews.png)
+
 
 ## Results
 The results section includes a comparison of the performance of different sentiment analysis models. We evaluate metrics such as accuracy, precision, recall, and F1-score.
 
-![Results](path/to/your/results_image.png)
+![Results](https://github.com/Moses-Mk/Intel-Products-Sentiment-Analysis-from-Online-Reviews/blob/main/images/Training%20Results.png)
 
 ## Installation
 To run this project locally, please follow these steps:
