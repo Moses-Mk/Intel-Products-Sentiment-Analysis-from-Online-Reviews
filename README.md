@@ -23,7 +23,7 @@ The overall workflow of the project is as follows:
 4. **Sentiment Analysis:** Using VADER and RoBERTa for sentiment classification.
 5. **Visualization:** Generating visualizations such as word clouds and performance comparisons.
 
-![Workflow](path/to/your/workflow_image.png)
+![Workflow]([path/to/your/workflow_image.png](https://github.com/Moses-Mk/Intel-Products-Sentiment-Analysis-from-Online-Reviews/blob/main/images/Workflow.png))
 
 ## Wordcloud
 We generate word clouds to visualize the most common words used in positive, negative, and neutral reviews.
