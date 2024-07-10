@@ -39,7 +39,7 @@ Word clouds are generated to visualize the most common words used in positive, n
 
 
 ## Results
-The results section includes a comparison of the performance of different sentiment analysis models. We evaluate metrics such as accuracy, precision, recall, and F1-score.
+The results section includes a comparison of the performance of different sentiment analysis models.
 
 ![Results](https://github.com/Moses-Mk/Intel-Products-Sentiment-Analysis-from-Online-Reviews/blob/main/images/Training%20Results.png)
 
