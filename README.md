@@ -31,7 +31,7 @@ Word clouds are generated to visualize the most common words used in positive, n
 ### Positive Reviews
 ![Positive Wordcloud](https://github.com/Moses-Mk/Intel-Products-Sentiment-Analysis-from-Online-Reviews/blob/main/images/Positive%20Reviews.png)
 
-### Neutral Reviews
+### Neutral/Expert Reviews
 ![Neutral Wordcloud](https://github.com/Moses-Mk/Intel-Products-Sentiment-Analysis-from-Online-Reviews/blob/main/images/Neutral%20Reviews.png)
 
 ### Negative Reviews
